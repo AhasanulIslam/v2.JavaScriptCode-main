@@ -9,3 +9,4 @@ function higherOrderFunction(num, callback) {
 higherOrderFunction(6, square);
 // dghdfgdghhfcgh
 console.log('dfdfg');
+console.log('fhdf');
