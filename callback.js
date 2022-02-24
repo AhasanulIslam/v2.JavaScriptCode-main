@@ -8,4 +8,4 @@ function higherOrderFunction(num, callback) {
 
 higherOrderFunction(6, square);
 // dghdfgdghhfcgh
-fgjghjg
+console.log('dfdfg');
